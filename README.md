@@ -1,6 +1,6 @@
 # Teste de Performance 1
 
-### :paperclip: Enunciado
+### Enunciado :page_facing_up:
 - Você deverá criar um projeto `Maven` com o archetype quickstart.
 - Esse projeto deverá rodar dentro da `Intellij` ou `Eclipse`. (Tirar print)
 - Esse projeto deverá ter pelo menos **3 packages com classes** em cada um deles.

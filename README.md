@@ -15,4 +15,4 @@
 
 <hr>
 
-*Trabalho feito para as disciplinas de "Desenvolvimento Back-end" e "Desenvolvimento de Serviços Web com Java" - 2023.4*
+*Trabalho feito para a disciplina de "Desenvolvimento de Serviços Web com Java", Desenvolvimento Back-end.*

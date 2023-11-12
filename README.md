@@ -11,4 +11,4 @@ Utilize o Debugger para verificar qualquer lógica do seu projeto. (Tirar print 
 Com o Debugger parado alterar o valor de alguma variável. (Tirar print de antes e depois)
 Criar algum breakpoint condicional (Tirar print dele parando e não parando)
 Subir seu projeto no Github com pelo menos 2 branchs.
-Observação: Subir seu projeto juntamente com os prints.
+Observação: Subir seu projeto juntamente com os prints..

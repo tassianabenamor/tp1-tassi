@@ -20,7 +20,7 @@
 **Parte 1**
 
 - Você deverá tirar um print screen do seu projeto no Github sem nenhuma tag.
-- Crie uma branch do seu projeto chamada logs. 
+- Crie uma branch do seu projeto chamada logs.
 - Utilize o logback para substituir os System outs do seu projeto por mensagens de log. 
 - Utilize pelo menos uma mensagem em cada Level -> info, debug e error. 
 - Faça a merge da branch logs com a branch main quando finalizar o trabalho. 

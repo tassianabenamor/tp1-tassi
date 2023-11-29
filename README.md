@@ -1,8 +1,7 @@
-# Teste de Performance
+# Enunciado - Teste de Performance
 
 ## TP1
 
-### Enunciado :page_facing_up:
 - Você deverá criar um projeto `Maven` com o archetype quickstart.
 - Esse projeto deverá rodar dentro da `Intellij` ou `Eclipse`. (Tirar print)
 - Esse projeto deverá ter pelo menos **3 packages com classes** em cada um deles.
@@ -19,8 +18,8 @@
 
 **Parte 1**
 
-- Você deverá tirar um print screen do seu projeto no Github sem nenhuma tag. 
-- Crie uma branch do seu projeto chamada logs. 
+- Você deverá tirar um print screen do seu projeto no Github sem nenhuma tag.
+- Crie uma branch do seu projeto chamada logs.
 - Utilize o logback para substituir os System outs do seu projeto por mensagens de log. 
 - Utilize pelo menos uma mensagem em cada Level -> info, debug e error. 
 - Faça a merge da branch logs com a branch main quando finalizar o trabalho. 
